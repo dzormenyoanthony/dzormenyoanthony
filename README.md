@@ -67,7 +67,7 @@ The system explores intelligent monitoring of electrical infrastructure and the 
 ### Languages
 
 ```text
-JavaScript · TypeScript · Python · C/C++ · SQL
+JavaScript · TypeScript · Python · C/C++ · SQL · Flutter/Dart · React js
 ```
 
 ### Software & Web
